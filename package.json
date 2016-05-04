@@ -1,0 +1,30 @@
+{
+  "name": "react-native-animated-segmented-control",
+  "version": "0.0.1",
+  "description": "Animated segmented control for react native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shiningjason1989/react-native-animated-segmented-control.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "ios",
+    "android",
+    "animated",
+    "segmented",
+    "segmented-control"
+  ],
+  "author": "Jason Chung <shiningjason1989@gmail.com> https://github.com/shiningjason1989",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shiningjason1989/react-native-animated-segmented-control/issues"
+  },
+  "homepage": "https://github.com/shiningjason1989/react-native-animated-segmented-control#readme"
+}
