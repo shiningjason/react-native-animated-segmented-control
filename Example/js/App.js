@@ -6,7 +6,7 @@ import React, {
   View
 } from 'react-native';
 
-import AnimatedSegmentedControl from './AnimatedSegmentedControl';
+import AnimatedSegmentedControl from 'react-native-animated-segmented-control';
 
 export default class App extends Component {
   constructor(props, context) {
